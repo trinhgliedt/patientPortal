@@ -1,0 +1,13 @@
+:root {
+  --color-main: rgb(228, 231, 237);
+  --color-envi: rgba(31, 61, 88, 0.671);
+  --color-mainDark: rgb(37, 94, 147);
+  --color-mainDarker: rgb(20, 50, 78);
+  --color-mainLight: rgb(179, 209, 237);
+  --color-mainLight1: rgb(70, 145, 226);
+  --color-mainLighter: rgb(213, 224, 234);
+  --color-textColor: #333;
+  --color-white: #fff;
+  --color-errorRed: #ff5757;
+  --color-shadow: rgba(0, 0, 0, 0.2);
+}
